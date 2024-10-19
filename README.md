@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aliasr2001
-- 👀 I’m practicing the Frontend Development using React JS and moving to Blockchain & Solidity with 🐢 turtle speed. I found the stack of interest in programming and Development feild. 
-- 🌱 I’m currently learning Bachelors Of Information Technology but On the parallel side, I'm also self-learning and doing the React JS and Blockchain projects. Also consuming 🙈 content on Netflix.
-- 💞️ I’m always ready to collaborate and contribute in Web Development project to overcome some of syndromes 😁 and exploring the Team Work strategies to get the better exposure of how the oragnizational goals are completed in Teams.
+👀 I’m practicing Front-End Development using Next JS and moving to Blockchain and solidity with 🐢 turtle speed. I've found a lot of interest in the programming and Development field. 
+- 🌱 I’m currently learning Bachelors Of Information Technology but On the parallel side, I'm also self-learning and doing React JS and Blockchain projects. Also consuming 🙈 content on Netflix.
+- 💞️ I’m always ready to collaborate and contribute to Web Development projects to overcome some syndromes 😁 and exploring the teamwork strategies to better expose how the organizational goals are completed in Teams.
 - 📫 How to reach me:
       You can reach me from my Social Handles 
 -      --> Facebook ( https://www.facebook.com/ali.asr.7127/ )
